@@ -1,0 +1,2 @@
+# Stock-Manangment-App
+Alpha
